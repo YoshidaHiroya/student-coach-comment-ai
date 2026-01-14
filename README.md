@@ -14,12 +14,13 @@ This project builds a local analytics pipeline using:
 - Data source: CSV (seed)
 
 ## Directory Structure
+```text
 student_coach/
 ├─ models/
 │  ├─ staging/
 │  └─ marts/
 ├─ seeds/
 └─ dbt_project.yml
-
+```
 ## Articles
 - [Zenn] Windows + dbt + DuckDB 環境構築
