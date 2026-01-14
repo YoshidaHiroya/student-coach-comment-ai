@@ -1,0 +1,6 @@
+﻿duckdb
+pandas
+dbt-core
+dbt-duckdb
+python-dotenv
+openai

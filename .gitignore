@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dbt
+student_coach/target/
+student_coach/dbt_packages/
+student_coach/logs/
+
+# local logs
+logs/
+
+# DuckDB
+*.duckdb
+
+# OS
+.DS_Store
+Thumbs.db
