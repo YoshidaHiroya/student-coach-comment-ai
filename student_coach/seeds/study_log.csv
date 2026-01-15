@@ -1,0 +1,4 @@
+event_id,student_id,event_ts,activity_type,content_id,content_type,duration_sec,score,is_correct,source,memo
+e0001,s001,2026-01-10 09:10:00,watch,v001,video,900,,,"import",""
+e0002,s001,2026-01-10 09:30:00,solve,q015,question,240,100,true,"import",""
+e0003,s001,2026-01-11 20:00:00,review,v001,video,600,,,"manual","felt easy"

@@ -34,3 +34,18 @@ models:
     # Config indicated by + and applies to all files under models/example/
     example:
       +materialized: view
+seeds:
+  student_coach:
+    study_log:
+      +column_types:
+        event_id: varchar
+        student_id: varchar
+        event_ts: timestamp
+        activity_type: varchar
+        content_id: varchar
+        content_type: varchar
+        duration_sec: integer
+        score: integer
+        is_correct: boolean
+        source: varchar
+        memo: varchar
