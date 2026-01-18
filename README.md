@@ -8,6 +8,14 @@ dbt × DuckDB によるデータ変換・品質管理を行い、**LLM に渡す
 単なる集計にとどまらず、
 **「LLMに渡すためのデータ設計」までをデータ基盤側で完結させる**ことを目的としています。
 
+zenn記事
+
+https://zenn.dev/hdotm/articles/e8fded799fe86b
+
+https://zenn.dev/hdotm/articles/71b814719b3371
+
+https://zenn.dev/hdotm/articles/83528c1b2eabe7
+
 ---
 
 ## アーキテクチャ
